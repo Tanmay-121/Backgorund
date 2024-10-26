@@ -1,0 +1,22 @@
+body{
+    background-image: url(Backgg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img{
+    margin-left: 70%;
+    width: 200px;
+    height: auto;
+}
+h1{
+    background-color: rgb(89, 223, 140);
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 40px;
+}
+p{
+    background-color: rgb(192, 243, 188);
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+}
